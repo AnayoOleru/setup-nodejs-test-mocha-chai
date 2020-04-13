@@ -13,3 +13,8 @@ The tutorial shows how you can bring in Mocha, Chai and supertest into this app.
 - Run ``` npm run dev```
 
 And that's all.
+
+Follow me on twitter and Instagram to get firsthand information of new unit tutorials like this.
+
+[Twitter](https://twitter.com/AnayoOleru)
+[Instagram](https://www.instagram.com/anayo.oleru/)
