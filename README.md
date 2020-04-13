@@ -1,5 +1,7 @@
 # setup-nodejs-test-mocha-chai
-A YouTube TDD setup for NodeJs crash course, that explains the types of testing for developers and how to setup test with mocha, chai and supertest
+A YouTube TDD setup for NodeJs crash course, that explains the types of testing for developers and how to setup test with mocha, chai and supertest.
+
+[![HitCount](http://hits.dwyl.com/AnayoOleru/setup-nodejs-test-mocha-chai.svg)](http://hits.dwyl.com/AnayoOleru/setup-nodejs-test-mocha-chai)
 
 ## Video 
 https://www.youtube.com/watch?v=rrj2YTNuG_w
