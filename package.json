@@ -23,7 +23,7 @@
     "@babel/polyfill": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
     "babel-eslint": "^10.0.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "yarn": "^1.15.2"
   },
   "keywords": [
